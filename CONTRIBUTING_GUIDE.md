@@ -23,8 +23,7 @@ Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a 
 
 ## License
 
-By contributing to this project you agree that your contributions will be licensed under the [MIT License](LICENSE.md).
+By contributing to this project you agree that your contributions will be licensed under the [MIT License](Licence.md).
 
 Thank you for contributing 
-```
 
