@@ -1,7 +1,3 @@
-Certainly! Below is a simple template for a CONTRIBUTING.md file that you can include in your project. This file helps guide contributors on how to participate in your project:
-
-```markdown
-# Contributing to [Your Project Name]
 
 Welcome We appreciate your interest and contributions.
 
